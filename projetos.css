@@ -1,0 +1,22 @@
+.container-fluid {
+    padding-bottom: 40px;
+}
+.video-container {
+    background-color: #FFC513;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    color: black;
+    margin-bottom: 20px;
+}
+.text {
+    text-align: justify;
+    padding: 10px;
+}
+.video1, .video2 {
+    height: 50vh;
+}
+.video3 {
+    height: 68vh;
+}

@@ -1,0 +1,21 @@
+.produto {
+    display: flex;
+    gap: 10px;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.img1, .img2 {
+    height: 495px;
+}
+.carousel {
+    margin-bottom: 50px;
+}
+.custom-carousel {
+    width: 100%; 
+    display: flex;
+    justify-content: center;
+}
+.carousel-inner {
+    width: 800px; 
+    height: 450px; 
+}
